@@ -22,6 +22,7 @@ namespace EtsyAutimationTests.Tests
             driver.Navigate().GoToUrl("https://www.etsy.com/");
         }
 
+
         [TearDown]
 
         public void TearDown()
